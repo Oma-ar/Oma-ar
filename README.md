@@ -1,6 +1,4 @@
-Hello there, i am ridwan
-I'm a junior frontend developer
-I'm am currently learning react and node.js
+Hello there, I'm ridwan, I'm a front end developer welcome to my github space 👋
 
 <!---
 Oma-ar/Oma-ar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
